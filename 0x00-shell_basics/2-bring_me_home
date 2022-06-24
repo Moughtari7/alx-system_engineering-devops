@@ -1,5 +1,2 @@
 #!/bin/bash
-cd
-if [ -d ./project ]
-    then 
-      cd project/
+if [ -d ./project ] then  cd project/
