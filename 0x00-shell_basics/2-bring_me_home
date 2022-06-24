@@ -1,2 +1,2 @@
-if [ -d ./project ] then  
-cd project/
+#!/bin/bash
+cd
