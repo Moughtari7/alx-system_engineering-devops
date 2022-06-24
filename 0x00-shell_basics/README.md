@@ -1,1 +1,1 @@
-echo "Updated"
+echo "  "
