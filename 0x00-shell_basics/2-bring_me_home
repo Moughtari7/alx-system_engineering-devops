@@ -1,5 +1,2 @@
 #!/bin/bash
-setq require-final-newline t cd $HOME
--}
-\ No newline at end of file
-+}
+cd $HOME
