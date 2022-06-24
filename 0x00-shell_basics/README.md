@@ -1,1 +1,0 @@
-echo 'where am i'>README.md
