@@ -1,2 +1,2 @@
 #!/bin/bash
-rm | head -4 ~
+rm | head -1 ~
