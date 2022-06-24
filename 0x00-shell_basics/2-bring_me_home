@@ -1,2 +1,2 @@
 #!/bin/bash
-cd if [ -d ./project ] then  cd project/
+cd $HOME
